@@ -16,3 +16,5 @@ const string3 = "Strings can be stored like this"
 
 // boolean value
 let booleanVariable: boolean = true;
+
+console.log( string2 )
